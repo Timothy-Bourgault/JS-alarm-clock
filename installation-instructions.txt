@@ -1,0 +1,4 @@
+$ npm install
+$ bower install
+
+{"_id":5746545,"name":"Portland","country":"US","coord":{"lon":-122.676208,"lat":45.523449}}

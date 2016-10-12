@@ -1,0 +1,18 @@
+{
+  "name": "alarm-clock",
+  "description": "",
+  "main": "index.js",
+  "license": "ISC",
+  "homepage": "https://github.com/Timothy-Bourgault/JS-alarm-clock.git",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "moment": "^2.15.1"
+  }
+}
